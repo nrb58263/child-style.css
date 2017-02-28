@@ -1,1 +1,4 @@
-# child-style.css
+/*
+ Theme Name:   Twenty Fifteen Child
+ Template:     twentyfifteen
+*/
